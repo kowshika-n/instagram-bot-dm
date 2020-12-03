@@ -1,0 +1,12 @@
+[Config]
+InstaLoginUsername=Test_Email@outlook.com
+InstaLoginPassword=Test_Password
+InstaHandles=the_test,test_insta
+
+Message=Hi,
+	I hope all is well.
+	
+	Are you interested in doing this?
+	
+	Regards,
+	Me
